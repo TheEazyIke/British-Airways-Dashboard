@@ -32,8 +32,8 @@ Performed additional research in order to identify the root cause of our finding
 ### Recommendations
 By making a couple of changes in target areas, British Airways can make a big change in the customer experience, potentially reversing the negative trend KPIs have been indicating
 
-Food - British Airways can introduce a tiered system, allowing them to offer a wider selection of offerings at lower prices. For instance, they can have a free tier comprised of a wide range of small snacks, a middle tier for meals, and a luxury tier for more gourmet items.
-Entertainment - British Airways can update their older planes, allowing customers to make use of the Paramount+ access. Additionally they can make Starlink their internet provider, as it is much faster and more stable than traditional ground to air systems.
+- Food - British Airways can introduce a tiered system, allowing them to offer a wider selection of offerings at lower prices. For instance, they can have a free tier comprised of a wide range of small snacks, a middle tier for meals, and a luxury tier for more gourmet items.
+- Entertainment - British Airways can update their older planes, allowing customers to make use of the Paramount+ access. Additionally they can make Starlink their internet provider, as it is much faster and more stable than traditional ground to air systems.
 
 
 
